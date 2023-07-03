@@ -1,3 +1,5 @@
+import { env } from "./env";
+
 /**
  * A function that takes in a single recipient or an array of recipients
  *  and sends an email to each of them with the optional message
